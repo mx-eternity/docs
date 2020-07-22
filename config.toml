@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://mx-eternity.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Matrix Eternity Documentation"
 enableGitInfo = true
 theme = "book"
 
