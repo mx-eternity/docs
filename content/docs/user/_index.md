@@ -10,3 +10,4 @@ bookToc: false
 
 - [**Getting Started**]({{< relref "/docs/user/getting_started" >}})
 - [**Config Reference**]({{< relref "/docs/user/config_reference" >}})
+- [**Flow Reference**]({{< relref "/docs/user/flow_reference" >}})

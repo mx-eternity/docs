@@ -6,4 +6,4 @@ bookCollapseSection: true
 
 # Get Started
 
-- [**Quickstart**]({{< relref "/docs/developer/getting_started/quickstart" >}})
+- [**Quickstart**]({{< relref "/docs/user/getting_started/quickstart" >}})
