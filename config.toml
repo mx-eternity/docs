@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+enableGitInfo = true
+theme = "book"
+
+[params]
+    BookRepo = 'https://github.com/mx-eternity/docs'
+    BookDateFormat = '2 January, 2006'
+    BookComments = false
