@@ -42,6 +42,9 @@ matrix:
   store_path: "./store"
 ```
 
-## Step 4: Run eternity
+## Step 4: Define a simple flow
+TODO
+
+## Step 5: Run eternity
 
 To run eternity you simply can execute `eternity`. Keep in mind that all config folders that are relative are relative to the folder where eternity was started in.
