@@ -14,7 +14,7 @@ matrix:
   store_path: "./store"
 ```
 
-## Refernce
+## Reference
 
 ### Root
 
