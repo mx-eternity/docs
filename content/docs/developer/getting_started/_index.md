@@ -1,7 +1,9 @@
 ---
-title: Getting Started
-weight: 2
-bookToc: true
+title: Get Started Overview
+bookToc: false
+bookCollapseSection: true
 ---
 
-# Getting Started
+# Get Started
+
+- [**Quickstart**]({{< relref "/docs/developer/getting_started/quickstart" >}})

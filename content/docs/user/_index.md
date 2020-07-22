@@ -9,3 +9,4 @@ bookToc: false
 ## Table of Contents
 
 - [**Getting Started**]({{< relref "/docs/user/getting_started" >}})
+- [**Config Reference**]({{< relref "/docs/user/config_reference" >}})
