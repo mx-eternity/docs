@@ -7,3 +7,11 @@ The flow file is defined in yaml. Below is a example file. The table explains wh
 ```yaml
 TODO
 ```
+
+## Reference
+
+### Root
+
+| Key           | Description                                           |
+| ------------- | ----------------------------------------------------- |
+| TODO  | TODO |

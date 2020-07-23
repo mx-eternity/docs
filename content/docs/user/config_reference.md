@@ -6,6 +6,7 @@ The config file is defined in yaml. Below is a example file. The table explains 
 
 ```yaml
 plugins_path: "./plugins"
+send_crashreports: true
 
 matrix:
   username: "@bot:example.com"
@@ -18,10 +19,11 @@ matrix:
 
 ### Root
 
-| Key           | Description                                           |
-| ------------- | ----------------------------------------------------- |
-| plugins_path  | Path to a folder which contains the plugin wasm files |
-| matrix        | See [Matrix](#matrix)                                 |
+| Key               | Description                                                                     |
+| ----------------- | ------------------------------------------------------------------------------- |
+| plugins_path      | Path to a folder which contains the plugin wasm files                           |
+| send_crashreports | Set this to true if you allow crashreports being sent to sentry (Default false) |
+| matrix            | See [Matrix](#matrix)                                                           |
 
 ### Matrix
 

@@ -10,4 +10,5 @@ headless: true
 - [**Developer Docs**]({{< relref "/docs/developer" >}})
     - [**Getting Started**]({{< relref "/docs/developer/getting_started" >}})
         - [**Quickstart**]({{< relref "/docs/developer/getting_started/quickstart" >}})
+    - [**Plugin Config Reference**]({{< relref "/docs/developer/plugin_config_reference" >}})
 <br />
