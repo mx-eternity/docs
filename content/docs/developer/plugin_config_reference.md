@@ -38,7 +38,10 @@ TODO: plan Database managment
 
 This extended format is required if the functions takes arguments and therefor needs to be handled different. It also indicates in what order these arguments should be input by the user.
 
-TODO: This is up for discussion as it might be intersting to define what kind of arguments these are (message args, stuff from a dependency, db values, other stuff). Also information if it is optional should be taken in account.
+{{< hint warning >}}
+**TODO**  
+This is up for discussion as it might be intersting to define what kind of arguments these are (message args, stuff from a dependency, db values, other stuff). Also information if it is optional should be taken in account.
+{{< /hint >}}
 
 | Key                | Description                                                             |
 | ------------------ | ----------------------------------------------------------------------- |
