@@ -4,19 +4,25 @@ The plugin file is defined in yaml. Below is a example file. The table explains 
 
 ## Example Flow
 
-```yaml
-name: gitlab_plugin
-version: 0.1.0
-exported_functions:
-  - get_issues
-  - name: add_issue
-    args:
-    - repo
-    - title
-    - text
-has_help: true
-license: AGPL-3.0-or-later
-depndencies: []
+```json
+{
+  "name": "gitlab_plugin",
+  "version": "0.1.0",
+  "exported_functions": [
+    "get_issues",
+    {
+      "name": "add_issue",
+      "args": [
+        "repo",
+        "title",
+        "text"
+      ]
+    }
+  ],
+  "has_help": true,
+  "license": "AGPL-3.0-or-later",
+  "dependencies": []
+}
 ```
 
 TODO: plan Database managment
